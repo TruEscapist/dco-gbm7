@@ -45,14 +45,11 @@ nav a:last-child {
 	margin: auto;
 }
 
-.content {
-	display: flex;
-}
-
 .workDiv {
 	width: 30%;
 	height: 30%;
 	border: 2px solid #c7c7c7;
+	margin: 1.5%;
 }
 
 .workText {
@@ -66,3 +63,9 @@ h3 {
 img {
   width: 100%;
 }
+
+/* TODO 3.1: Set the display for class=content to flex*/
+
+/* TODO 3.2: Set the display for class = content at a maximum screen size of 576px to block*/
+
+/* TODO 3.3: Set the width of workDiv to 100%*/
